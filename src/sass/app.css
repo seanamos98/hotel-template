@@ -1,0 +1,118 @@
+.navbar-toggler {
+  background-color: gray;
+}
+
+.btn {
+  background-color: #dbaedf;
+  color: #000000;
+}
+
+a {
+  color: #ffffff;
+}
+
+a:hover {
+  color: #cccccc;
+}
+
+footer {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+footer li {
+  list-style: none;
+}
+
+@media (min-width: 768px) {
+  footer {
+    padding: 50px;
+  }
+  footer ul {
+    display: flex;
+    justify-content: space-evenly;
+  }
+}
+
+.room ul {
+  list-style: none;
+}
+
+.showcase {
+  background: url(/dist/images/hotel-cover.jpg) no-repeat;
+  background-size: cover;
+}
+
+.showcase .container {
+  color: #ffffff;
+  padding: 60px 10px;
+}
+
+.section-2 {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #ffffff;
+}
+
+.page-header {
+  padding-top: 80px;
+}
+
+.facility {
+  position: relative;
+}
+
+.facility .arrow-1 {
+  position: absolute;
+  top: 280px;
+}
+
+@media (min-width: 768px) {
+  .facility .arrow-1 {
+    top: 215px;
+  }
+}
+
+.facility .arrow-2 {
+  position: absolute;
+  top: 280px;
+}
+
+@media (min-width: 768px) {
+  .facility .arrow-2 {
+    top: 215px;
+  }
+}
+
+.facility .arrow-3 {
+  position: absolute;
+  top: 1290px;
+}
+
+@media (min-width: 768px) {
+  .facility .arrow-3 {
+    top: 980px;
+  }
+}
+
+.facility .arrow-4 {
+  position: absolute;
+  top: 290px;
+}
+
+@media (min-width: 768px) {
+  .facility .arrow-4 {
+    top: 220px;
+  }
+}
+
+.facility .arrow-5 {
+  position: absolute;
+  top: 290px;
+}
+
+@media (min-width: 768px) {
+  .facility .arrow-5 {
+    top: 220px;
+  }
+}
+/*# sourceMappingURL=app.css.map */
