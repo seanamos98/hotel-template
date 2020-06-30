@@ -1,0 +1,27 @@
+{
+  "name": "hotel-template",
+  "version": "1.0.0",
+  "description": "This template was built using bootstrap 4",
+  "main": "index.js",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "bootstrap": "^4.5.0",
+    "popper.js": "^1.16.1",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanamos98/hotel-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanamos98/hotel-template/issues"
+  },
+  "homepage": "https://github.com/seanamos98/hotel-template#readme"
+}
